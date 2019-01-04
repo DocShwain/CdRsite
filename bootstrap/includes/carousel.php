@@ -2,7 +2,7 @@
         
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="first-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide">
+            <img class="first-slide" src="images/tandarts_praktijk.jpg" alt="First slide">
             <div class="container">
               <div class="carousel-caption text-center">
                 <h1>Example headline.</h1>
